@@ -1,0 +1,8 @@
+Origin: Koshikawa
+Label: koshikawa's Repo
+Suite: stable
+Version: 1.0
+Codename: koshikawarepo
+Architectures: iphoneos-arm
+Components: main
+Description: Multifunctionality repo for iPhone 4S
