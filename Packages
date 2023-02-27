@@ -39,3 +39,16 @@ Description: Disables YouTube update prompts
 Name: DisableYouTubeUpdates
 Author: Patrick_Griffin
 Depiction: https://koshikawa.github.io/depictions/com.patrickgriffin.disableyoutubeupdates.html
+
+Package: com.piercingimpulse.verduraios
+Version: 0.0.2
+Section: Tweaks
+Maintainer: PiercingImpulse
+Depends: mobilesubstrate (>= 0.9.5000)
+Architecture: iphoneos-arm
+Filename: debs/com.piercingimpulse.verduraios_0.0.2_iphoneos-arm.deb
+Size: 36258
+MD5sum: 8cb7896285b3e515476450cb36093c31
+Description: Tired to watch YouTube on Safari or Google Chrome on older device? Download YouTube 10.11.11546, spoof the version on the plist file and then get VerduraiOS! For the full guide on how to use it, please visit my GitHub page :)
+Name: Verdura iOS [BETA]
+Author: PiercingImpulse
