@@ -26,3 +26,21 @@ Name: Old Package
 Author: Reposi3 <reposithree@gmail.com>
 Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
 
+Package: com.patrickgriffin.disableyoutubeupdates
+Name: DisableYouTubeUpdates
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Disables YouTube update prompts
+Maintainer: Patrick_Griffin
+Author: Patrick_Griffin
+Section: Tweaks
+Version: 0.0.1
+Installed-Size: 104
+Filename: debs/com.patrickgriffin.disableyoutubeupdates_0.0.1_iphoneos-arm.deb
+Depiction: https://koshikawa.github.io/depictions/com.patrickgriffin.disableyoutubeupdates.html
+Icon: https://koshikawa.github.io/icons/com.patrickgriffin.disableyoutubeupdates.png
+Size: 2914
+MD5sum: 9097866b3b81e4ff60d96b9d32eed7c7
+SHA1: 1514dadae60af3994eee6279e0467e3272c6ca71
+SHA256: 5c3f8402d80a977172bd92e405110f1d3a1c19b40c618a813c349be08a754ffd
+SHA521: e22f2ef01c5db9866518643b58f978098b7426459ed4ded3bdcc75eea5ea51af6ec7e400fd797c9bbf7c117aa909735ca69afe4c2ee692b324ac75be8be21c7c
